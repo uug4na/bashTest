@@ -1,0 +1,2 @@
+# bashTest
+bash test
